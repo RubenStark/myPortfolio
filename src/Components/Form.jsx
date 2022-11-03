@@ -52,7 +52,7 @@ function CustomForm() {
                     <Form.Label>Example textarea</Form.Label>
                     <Form.Control as="textarea" rows={3} onChange={textlHandler}/>
                 </Form.Group>
-                Or use the links on the navbar to find me on social media
+                Or use the links in the navbar to find me on social media
                 <br />
                 <Button variant="primary" type="submit" className='mt-4' onClick={hanldeSubmit}>
                     Submit
