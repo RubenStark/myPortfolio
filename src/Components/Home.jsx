@@ -8,7 +8,7 @@ function Home() {
     return (
         <Container fluid='md'>
             <Row className="justify-content-center">
-                <Col xs={12} md={5} xl={4}>
+                <Col xs={12} md={5} xl={5}>
                     <Box
                         alt={'image of developer'}
                         style={{ background: info.gradient }}
