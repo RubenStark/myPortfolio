@@ -1,6 +1,7 @@
 import self from "../img/self.png"
 import mock2 from "../img/ravenous.png"
 import moviefy from "../img/moviefy.png"
+import fb from "../img/fb-responsive.gif"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -168,7 +169,7 @@ export const info = {
             title: "Facebook Homepage Clone",
             live: "",
             source: "",
-            image: 'https://lh3.googleusercontent.com/VjMCSchbtSfVOMFh8ld_xpobzMsG1He1hhFTgjo5DbiqPRdxehY4VAYgyGR4t1gMhOs=w2400',
+            image: fb,
             subtitle: "Responsive Facebook homepage clone",
             description: "A fully responsive Facebook homepage clone, using React, React Hooks, Vite, and TailwindCss.",
         }
