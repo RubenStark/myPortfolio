@@ -163,6 +163,14 @@ export const info = {
             image: 'https://lh5.googleusercontent.com/J5Gxecp-9l8ZiGkTwjA43SIbBh1m24K36QlAfZ8PuLZ4Jag6t28GRLB_qPGC4pFbmzk=w2400',
             subtitle: "React portfolio template",
             description: "A full social networ for developers, where you can create a profile, share posts, comment, like, follow other users, and more.",
+        },
+        {
+            title: "Facebook Homepage Clone",
+            live: "",
+            source: "",
+            image: 'https://lh3.googleusercontent.com/VjMCSchbtSfVOMFh8ld_xpobzMsG1He1hhFTgjo5DbiqPRdxehY4VAYgyGR4t1gMhOs=w2400',
+            subtitle: "Responsive Facebook homepage clone",
+            description: "A fully responsive Facebook homepage clone, using React, React Hooks, Vite, and TailwindCss.",
         }
     ]
 }
